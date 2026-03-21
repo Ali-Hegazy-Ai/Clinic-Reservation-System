@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# draw.io desktop app backups
+*.drawio.bkp
+
+# Compressed archives
+*.zip
+*.tar.gz
